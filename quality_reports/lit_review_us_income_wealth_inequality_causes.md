@@ -9,7 +9,7 @@
 
 ## Summary
 
-The research agrees on the direction of change: since about 1980, US pre-tax income and wealth have become much more concentrated at the top, after the mid-century "Great Compression". It disagrees about **how large the rise is** and **which mechanisms matter most**. On size, Piketty, Saez and Zucman (2018) find that the bottom half's pre-tax income stagnated at about $16,000 per adult from 1980 to 2014, while average income grew about 60%. Auten and Splinter (2024) argue that once tax-base changes, missing income and taxes and transfers are accounted for, after-tax top shares barely changed. Zucman's 2024 comment replies that the two series are similar in level and trend once assumptions are aligned. Wealth shows a parallel split: the capitalization estimates of Saez and Zucman (2016) against the heterogeneous-returns estimates of Smith, Zidar and Zwick (2023). Both find rising top wealth shares. They disagree on the level and the slope.
+The research agrees on the direction of change: since about 1980, US pre-tax income and wealth have become much more concentrated at the top, after the mid-century "Great Compression". It disagrees about **how large the rise is** and **which mechanisms matter most**. On size, Piketty, Saez and Zucman (2018) find that the bottom half's pre-tax income stagnated at about $16,000 per adult from 1980 to 2014, while average income grew about 60%. Auten and Splinter (2024) argue that once tax-base changes, missing income and taxes and transfers are accounted for, after-tax top shares barely changed. Piketty, Saez and Zucman's 2024 comment replies that the two series are similar in level and trend once assumptions are aligned. Wealth shows a parallel split: the capitalization estimates of Saez and Zucman (2016) against the heterogeneous-returns estimates of Smith, Zidar and Zwick (2023). Both find rising top wealth shares. They disagree on the level and the slope.
 
 The causal research splits into two broad explanations, which are not mutually exclusive. **Market forces** explain the labor-earnings side: skill-biased technical change and the slowdown in college-graduate supply (Goldin and Katz 2008), task-displacing automation (Acemoglu and Restrepo 2022), trade shocks (Autor, Dorn and Hanson 2013), and growing pay gaps between firms tied to worker sorting (Song et al. 2019). **Institutions and policy** explain the top and the lower tail: union decline (Farber et al. 2021), the falling real minimum wage (Autor, Manning and Smith 2016), and lower top tax rates, which raise the payoff to bargaining for higher pay (Piketty, Saez and Stantcheva 2014). Hoffmann, Lee and Lemieux (2020) conclude that **labor-earnings inequality is the main proximate driver** of rising US income inequality, with capital income playing a modest added role.
 
@@ -30,7 +30,7 @@ Ordered roughly by relevance to "why did inequality rise".
 ### Auten & Splinter (2024) — Using Tax Data to Measure Long-Term Trends
 - **Main contribution:** The main challenge to the size of the post-1980 rise in top income shares.
 - **Method:** National-income-based estimates that adjust for tax-base changes (such as the 1986 Tax Reform Act), social changes like falling marriage rates, and missing income. *JPE* 132(7): 2179–2227.
-- **Key finding:** Top pre-tax shares are lower and rose less than in other tax-data studies. Higher transfers and more progressive taxes left **after-tax top shares little changed**. Zucman's 2024 comment (working paper) argues the estimates converge with PSZ once assumptions are clarified, and that the Auten–Splinter treatment of untaxed capital income reduces the top 1% rise by about 0.4 pp.
+- **Key finding:** Top pre-tax shares are lower and rose less than in other tax-data studies. Higher transfers and more progressive taxes left **after-tax top shares little changed**. Piketty, Saez and Zucman's 2024 comment (World Inequality Lab Technical Note 2024/04) argues the estimates converge with PSZ in level and trend over 1979–2019 once assumptions are clarified. It also criticizes the Auten–Splinter treatment of untaxed capital income. *(A ~0.4 pp figure for that effect appeared in one search summary but could not be verified against the text, so it is omitted.)*
 - **Relevance:** Any causal claim has to say which measure it explains: pre-tax or post-tax, top 1% or Gini.
 
 ### Hoffmann, Lee & Lemieux (2020) — Growing Income Inequality in the US and Other Advanced Economies
@@ -140,7 +140,7 @@ Ordered roughly by relevance to "why did inequality rise".
 
 ### Methodological Innovations
 - **Distributional national accounts** (PSZ 2018; Auten & Splinter 2024). These reconcile micro data with macro totals, and the allocation rules drive much of the disagreement.
-- **Real-time distributional statistics** (Blanchet, Saez & Zucman, NBER WP 30229, 2022; author list varies by version). Quarterly estimates are published at realtimeinequality.org.
+- **Real-time distributional statistics** (Blanchet, Mouillet, Saez & Zucman 2026, *Journal of Public Economics* 260; first circulated as NBER WP 30229 in 2022 by Blanchet, Saez & Zucman). Quarterly estimates are published at realtimeinequality.org.
 - **Capitalization with heterogeneous returns** (Smith, Zidar & Zwick 2023).
 - **Matched employer–employee variance decompositions** (Song et al. 2019).
 - **Shift-share and exposure designs** (Autor, Dorn & Hanson 2013; Acemoglu & Restrepo). Identification depends on which industries carry the instrument's weight.
@@ -166,7 +166,7 @@ Ordered roughly by relevance to "why did inequality rise".
 
 ### How independent is the support?
 - **"Labor-earnings inequality drives income inequality":** Hoffmann, Lee & Lemieux (2020), Song et al. (2019) and Acemoglu & Restrepo (2022) are **3 apparent / 2 independent** sources. Song et al. use SSA administrative data. HLL and AR both rely on Census-family household surveys (CPS/ACS), although they use them differently.
-- **"Top income shares rose sharply since 1980":** PSZ (2018), Saez & Zucman (2016) and Blanchet et al. (WP) are **3 apparent / 1 independent**, since all three share the Piketty–Saez–Zucman team and tax-data pipeline. Auten & Splinter, using the same IRS data but different allocations, find a smaller rise. Kuhn et al. use SCF survey data and offer some independent support on the wealth side.
+- **"Top income shares rose sharply since 1980":** PSZ (2018), Saez & Zucman (2016) and Blanchet et al. (2026) are **3 apparent / 1 independent**, since all three share the Piketty–Saez–Zucman team and tax-data pipeline. Auten & Splinter, using the same IRS data but different allocations, find a smaller rise. Kuhn et al. use SCF survey data and offer some independent support on the wealth side.
 - **"Top wealth shares rose":** Saez & Zucman (2016), Smith, Zidar & Zwick (2023) and Kuhn, Schularick & Steins (2020) are **3 apparent / 2 independent**. SZ and SZZ both capitalize IRS income data, while KSS use the SCF.
 - **"Union decline raised inequality":** Farber et al. (2021) is **1 independent** source in this review. Western & Rosenfeld (2011, *ASR*), mentioned earlier in the session, is plausibly independent but was **not re-verified** here.
 - **Kuhn–Schularick overlap:** Kuhn and Schularick are coauthors on both Kuhn, Schularick & Steins (2020) and Derenoncourt et al. (2024), and both use the archival SCF. Count them as one source on asset-price channels.
@@ -179,7 +179,7 @@ Ordered roughly by relevance to "why did inequality rise".
 - **Minimum wage:** Autor, Manning & Smith (2016) is itself the downward revision of Lee (1999).
 - **Size of top income growth:** Auten & Splinter (2024), plus their 2025 update covering 2020–22.
 - **Wealth:** Smith, Zidar & Zwick (2023) give lower top-wealth levels. Greenwald et al. find total-wealth inequality including human wealth rises much less.
-- **Trade:** No null result found for local effects. Aggregate share unresolved; search: "China shock contribution to US wage inequality small".
+- **Trade:** No null result found for local effects. Galle, Rodríguez-Clare & Yi (2023, *Review of Economic Studies*) quantify the China shock's distributional welfare effects. They find about 13% of the population lose but no significant rise in within-group inequality. Neither they nor Autor, Dorn & Hanson give an aggregate share of national wage inequality. Search: "China shock contribution to US wage inequality small".
 - **Top tax rates:** No null result surfaced in this search. Search: "Piketty Saez Stantcheva top tax rates bargaining". Look for within-US evidence before relying on this channel.
 
 ---
@@ -189,7 +189,7 @@ Ordered roughly by relevance to "why did inequality rise".
 - **Allow Fed data hosts:** add `federalreserve.gov` and `fred.stlouisfed.org` to the session's network allowlist. Then pull the DFA top 1% and bottom 50% net-worth shares (FRED series `WFRBST01134` and `WFRBSB50215`), plus WID (`wid.world`) series for a figure on pre-tax and post-tax top shares.
 - **Read in this order:** Hoffmann–Lee–Lemieux (2020) → Auten–Splinter (2024) with the Zucman (2024) comment → Acemoglu–Restrepo (2022) → Song et al. (2019) → Kuhn–Schularick–Steins (2020).
 - **Methods to consider for a class project:** DiNardo–Fortin–Lemieux (1996) reweighting decompositions on CPS-ORG to give counterfactual wage distributions with unions and the minimum wage held at 1979 levels. Firpo–Fortin–Lemieux RIF regressions are an alternative.
-- **Verify before citing:** working-paper numbers (Greenwald et al., Mian–Straub–Sufi, Autor–Dube–McGrew, Blanchet et al.) change between drafts.
+- **Verify before citing:** working-paper numbers (Greenwald et al., Mian–Straub–Sufi, Autor–Dube–McGrew) change between drafts. For example, the Autor–Dube–McGrew offset is about one-quarter in the March 2023 draft, about one-third in the 2024 draft, and "nearly 40%" in a November 2023 version.
 - **Cross-country contrast:** use WID data to compare the US with France, which faces similar technology but has different institutions. This tests technology-only accounts.
 
 ---
@@ -218,9 +218,9 @@ Entries marked `% UNVERIFIED` could not be fully confirmed in this session's sea
 @techreport{psz2024comment,
   author      = {Piketty, Thomas and Saez, Emmanuel and Zucman, Gabriel},
   title       = {Income Inequality in the United States: A Comment},
-  institution = {Working paper},
-  year        = {2024},
-  note        = {% UNVERIFIED author list; hosted at gabriel-zucman.eu/files/PSZ2024.pdf}
+  institution = {World Inequality Lab},
+  type        = {Technical Note}, number = {2024/04}, year = {2024},
+  note        = {September 2024; a 2026 revision exists}
 }
 
 @article{hoffmann2020growing,
@@ -268,7 +268,7 @@ Entries marked `% UNVERIFIED` could not be fully confirmed in this session's sea
   title   = {Unions and Inequality over the Twentieth Century: New Evidence from Survey Data},
   journal = {Quarterly Journal of Economics},
   year    = {2021}, volume = {136}, number = {3}, pages = {1325--1385},
-  doi     = {10.1093/qje/qjab012}
+  doi     = {10.1093/qje/qjab012}  % DOI confirmed only via secondary listing
 }
 
 @article{autor2016contribution,
@@ -300,7 +300,7 @@ Entries marked `% UNVERIFIED` could not be fully confirmed in this session's sea
   title   = {Wealth Inequality in the United States since 1913: Evidence from Capitalized Income Tax Data},
   journal = {Quarterly Journal of Economics},
   year    = {2016}, volume = {131}, number = {2}, pages = {519--578},
-  doi     = {10.1093/qje/qjw004}  % UNVERIFIED DOI
+  doi     = {10.1093/qje/qjw004}
 }
 
 @article{smith2023top,
@@ -347,21 +347,32 @@ Entries marked `% UNVERIFIED` could not be fully confirmed in this session's sea
   author  = {DiNardo, John and Lee, David S.},
   title   = {Economic Impacts of New Unionization on Private Sector Employers: 1984--2001},
   journal = {Quarterly Journal of Economics},
-  year    = {2004}, volume = {119}, number = {4}, pages = {1383--1441}
+  year    = {2004}, volume = {119}, number = {4}, pages = {1383--1441},
+  doi     = {10.1162/0033553042476189}
 }
 
 @article{kehrig2021micro,
   author  = {Kehrig, Matthias and Vincent, Nicolas},
   title   = {The Micro-Level Anatomy of the Labor Share Decline},
   journal = {Quarterly Journal of Economics},
-  year    = {2021}, volume = {136}, number = {2}, pages = {1031--1087}  % UNVERIFIED volume/pages
+  year    = {2021}, volume = {136}, number = {2}, pages = {1031--1087},
+  doi     = {10.1093/qje/qjab002}
+}
+
+@article{galle2023slicing,
+  author  = {Galle, Simon and Rodr{\'i}guez-Clare, Andr{\'e}s and Yi, Moises},
+  title   = {Slicing the Pie: Quantifying the Aggregate and Distributional Effects of Trade},
+  journal = {Review of Economic Studies},
+  year    = {2023},
+  note    = {% UNVERIFIED volume/pages; identified as ReStud rdac020}
 }
 
 @techreport{greenwald2021financial,
   author      = {Greenwald, Daniel L. and Leombroni, Matteo and Lustig, Hanno and Van Nieuwerburgh, Stijn},
   title       = {Financial and Total Wealth Inequality with Declining Interest Rates},
   institution = {National Bureau of Economic Research},
-  type        = {NBER Working Paper}, number = {28613}, year = {2021}
+  type        = {NBER Working Paper}, number = {28613}, year = {2021},
+  note        = {Later drafts retitled "Wealth Inequality with Declining Interest Rates"; no journal version found}
 }
 
 @techreport{mian2020saving,
@@ -378,27 +389,45 @@ Entries marked `% UNVERIFIED` could not be fully confirmed in this session's sea
   type        = {NBER Working Paper}, number = {31010}, year = {2023}
 }
 
-@techreport{blanchet2022realtime,
-  author      = {Blanchet, Thomas and Saez, Emmanuel and Zucman, Gabriel},
-  title       = {Real-Time Inequality},
-  institution = {National Bureau of Economic Research},
-  type        = {NBER Working Paper}, number = {30229}, year = {2022},
-  note        = {% UNVERIFIED: later versions add L{\'e}on Mouillet; a search snippet claims later publication in J. Public Econ.}
+@article{blanchet2026realtime,
+  author  = {Blanchet, Thomas and Mouillet, L{\'e}on and Saez, Emmanuel and Zucman, Gabriel},
+  title   = {Real-Time Inequality},
+  journal = {Journal of Public Economics},
+  year    = {2026}, volume = {260},
+  note    = {Article number not confirmed. First circulated as NBER Working Paper 30229 (2022) by Blanchet, Saez and Zucman.}
 }
 
 @article{autor2020extending,
   author  = {Autor, David and Goldin, Claudia and Katz, Lawrence F.},
   title   = {Extending the Race between Education and Technology},
   journal = {AEA Papers and Proceedings},
-  year    = {2020}, volume = {110}, pages = {347--351}  % UNVERIFIED pages
+  year    = {2020}, volume = {110}, pages = {347--351},
+  doi     = {10.1257/pandp.20201061}
 }
 ```
 
 ---
 
 <details>
-<summary><strong>Post-Flight Verification</strong> (pending)</summary>
+<summary><strong>Post-Flight Verification</strong>: FAIL → corrected; now PARTIAL</summary>
 
-Pending.
+**Protocol note:** The skill calls for a `claim-verifier` subagent and `.claude/rules/post-flight-verification.md`. Neither exists in this repo, so a general-purpose agent was run in a fresh context. It received only the 27 claims and the verification questions, not the draft text.
+
+**Verifier access limits:** gabriel-zucman.eu, eml.berkeley.edu, nber.org, federalreserve.gov and FRED could not be fetched, and Crossref returned 403. Most checks rest on journal pages, RePEc/IDEAS, AEA, Wiley and Oxford Academic snippets, and on abstracts rather than full texts.
+
+**Initial verdict: FAIL** (1 contradicted, 2 unverifiable, 24 verified).
+
+| Claim | Verifier result | Action taken |
+|---|---|---|
+| Real-Time Inequality | CONTRADICTED: published as Blanchet, Mouillet, Saez & Zucman (2026), *J. Public Econ.* 260 | Citation and text rewritten |
+| PSZ 2024 comment, ~0.4 pp figure | UNVERIFIABLE | Figure removed. Authors confirmed (WIL Technical Note 2024/04) |
+| Farber et al. 2021 DOI | Confirmed only via a secondary listing | Flagged in BibTeX |
+| Kehrig & Vincent 2021, AGK 2020, Saez & Zucman 2016 details | VERIFIED | `UNVERIFIED` flags removed; DOIs added |
+| DiNardo & Lee 2004 DOI | Supplied by verifier | Added |
+| Autor–Dube–McGrew offset | Third figure found ("nearly 40%", Nov 2023) | Added to next steps |
+| Negative claims (no published critique of AR 2022; no aggregate China-shock share) | VERIFIED by spot-check; Galle, Rodríguez-Clare & Yi (2023) found as related | Added to "What went the other way" |
+| All other claims (C1, C2, C4–C9, C11–C19, C22–C24) | VERIFIED | None needed |
+
+**Remaining uncertainty:** the Galle et al. BibTeX volume and pages, the JPubE article number, and the Farber et al. DOI. All are flagged in the BibTeX block. Working papers (Greenwald et al., Mian–Straub–Sufi, Autor–Dube–McGrew) have no journal version as of the verification date.
 
 </details>
